@@ -4,16 +4,14 @@ Discente: Arthur Palm Tomazia
 
 Docente: Amanda Paul Dull
 
-Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
-
 [![Simular no Tinkercad](https://www.tinkercad.com/things/iJwdFYo4hrs-projeto-cervo-motorpotenciometro?sharecode=_dvQA0Cq17aYO8oLkf_dgjO5PxkWLeveP8PawSXYUFI)
 
-## Enunciado: Vamos ligar o LED!
+## Enunciado: Servo Motor!
 
-O projeto vai utilizar um botão como entrada para controlar um LED como saída. Ao pressionar o botão, o Arduino altera o estado do LED — cada clique liga ou desliga, funcionando como um interruptor eletrônico.
+O projeto vai utilizar um potênciometro como entrada para controlar um servo motor como saída. Ao girar o potênciometro, o Arduino gira o cervo motor no mesmo ângulo.
 
-- O Arduino lê o estado do botão pelo **pino 7**
-- Controla o LED pelo **pino 10**
+- O Arduino lê o estado do  pelo **pino A0**
+- Controla o servo motor pelo **pino 12**
 
 ## Materiais necessários
 
