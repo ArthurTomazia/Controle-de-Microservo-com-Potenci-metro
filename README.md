@@ -1,6 +1,6 @@
 # iot-exemplo-repositorio
 
-Discente: Ícaro Caldeira Botelho
+Discente: Arthur Palm Tomazia
 
 Docente: Amanda Paul Dull
 
@@ -24,6 +24,6 @@ O projeto vai utilizar um botão como entrada para controlar um LED como saída.
 | 1 | Protoboard |
 | 1 | Resistor de 200 Ω ou 220 Ω |
 | 1 | Resistor de 10 kΩ |
-| 1 | Botão tipo push button |
-| 1 | LED vermelho difuso de 5 mm |
+| 1 | Servo Motor |
+| 1 | Potenciometro |
 | — | Fios de jumper macho-macho |
